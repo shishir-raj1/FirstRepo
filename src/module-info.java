@@ -1,0 +1,3 @@
+module SeleniumJava {
+	requires okio;
+}
